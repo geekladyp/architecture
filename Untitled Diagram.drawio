@@ -4,23 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Kibana Dashboard" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="2" value="Kibana Dashboard" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="947" y="107" width="158" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="3" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="693" y="107" width="204" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="AI-Powered Analysis" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4" value="AI-Powered Analysis" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="353" y="18" width="290" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="5" value="" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="8" y="8" width="295" height="317" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Informatica Power Center" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="33" y="43" width="245" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="IDMC" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="108" y="142" width="96" height="49" as="geometry" />
+        <mxCell id="7" value="Informatica Intelligent Data Management Cloud (IDMC)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="142" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Apache Nifi" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="84" y="241" width="143" height="49" as="geometry" />
@@ -62,6 +62,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kcLdolbtI0Tte_ym9nf0-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
+          <mxGeometry x="992" y="193" width="68" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
