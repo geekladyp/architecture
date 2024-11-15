@@ -1,64 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="T3FjywYhyZaeFkoowyEr">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Kibana Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2" value="Kibana Dashboard" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="947" y="107" width="158" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="693" y="107" width="204" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="AI-Powered Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4" value="AI-Powered Analysis" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="353" y="18" width="290" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="ETLs (Informatica Power Center, IDMC, Apache Nifi)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5" value="" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="8" y="8" width="295" height="317" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Informatica Power Center" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6" value="Informatica Power Center" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="33" y="43" width="245" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="IDMC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7" value="IDMC" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="108" y="142" width="96" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Apache Nifi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8" value="Apache Nifi" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="84" y="241" width="143" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Machine Learning Models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9" value="Machine Learning Models" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="378" y="142" width="240" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="10" value="Elasticsearch" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="718" y="142" width="154" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Kibana" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="11" value="Kibana" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="972" y="142" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.35;entryY=0;" edge="1" parent="1" source="6" target="9">
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.35;entryY=0;" parent="1" source="6" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="353" y="68" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="7" target="9">
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="7" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.35;entryY=1;" edge="1" parent="1" source="8" target="9">
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.35;entryY=1;" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="353" y="266" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="9" target="10">
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="9" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="10" target="11">
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="10" target="11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
